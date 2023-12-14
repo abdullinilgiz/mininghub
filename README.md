@@ -1,5 +1,8 @@
 # mininghub
 ITMO, AI Talent Hub, Data-Centric AI
+## ДЗ 3
+Python код с активным обучением `active/acrive_learning.py`
+Опискание пайплайна: `active/ACTIVE.md`
 ## ДЗ 2
 ТЗ для разметчика: `annotations/ANNOT.md`
 Выводы: `annotations/RESULT.md`
